@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="ITSA-C_AR01.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ITSA-C_AR01.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
